@@ -1,1 +1,1 @@
-# retailmind-ai-agent-o
+# retailmind-ai-agent
